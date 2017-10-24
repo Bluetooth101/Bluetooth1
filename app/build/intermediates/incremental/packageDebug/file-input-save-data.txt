@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Oct 23 20:52:49 CST 2017
+2.base=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\client.xml
+5.set=ANDROID_RESOURCE
+3.base=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+2.set=ANDROID_RESOURCE
+4.base=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_093bde5ff46eac53cfde14b89c6613df1deda8db
+7.file=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\server.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ae34ee453b9ba0f8317baf8c02ef9a078764810c\\classes.dex
+5.base=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ae34ee453b9ba0f8317baf8c02ef9a078764810c
+3.file=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+3.set=ANDROID_RESOURCE
+1.base=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\Android\\Bluetooth1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_093bde5ff46eac53cfde14b89c6613df1deda8db\\classes.dex
+0.set=DEX
